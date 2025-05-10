@@ -1,5 +1,5 @@
 # **🌸 Clean Bloom - Premium Cleaning Services Website**  
-*Transforming spaces with sparkling care*  
+*Because clean should bloom*  
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-https://cleanbloom.netlify.app-2ea44f?style=flat)](https://flourishing-rabanadas-c54f49.netlify.app/)  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)  
